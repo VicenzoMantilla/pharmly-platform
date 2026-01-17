@@ -1,8 +1,3 @@
-export default function UsuariosPage() {
-  return (
-    <div>
-      <h1>Usuarios</h1>
-      <p>Gestión de usuarios</p>
-    </div>
-  )
+export default function StockPage() {
+  return <h1 className="text-2xl font-semibold">Gestión de Usuarios</h1>
 }

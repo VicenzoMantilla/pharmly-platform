@@ -1,8 +1,3 @@
 export default function StockPage() {
-  return (
-    <div>
-      <h1>Stock</h1>
-      <p>Pantalla de gestión de stock</p>
-    </div>
-  )
+  return <h1 className="text-2xl font-semibold">Gestión de Stock</h1>
 }
